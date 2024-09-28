@@ -41,8 +41,8 @@ I’m a PhD candidate in Radiation and Medical Physics with 6+ years of experien
 <div align="center">
 <a href="https://github.com/lrgto">
 <!-- <img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=lrgto&theme=dark&hide_border=true&layout" /> -->
-<img height="210px" src="https://github-readme-stats.vercel.app/api?username=lrgto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrgto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=lrgto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrgto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" />
 </a></div>
 
 <!-- OTHER PROJECTS --> 
